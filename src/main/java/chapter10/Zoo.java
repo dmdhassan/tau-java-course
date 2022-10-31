@@ -9,6 +9,5 @@ public class Zoo {
         rocky.makeSound();
 
         ((Cat) rocky).scratch();
-
     }
 }
