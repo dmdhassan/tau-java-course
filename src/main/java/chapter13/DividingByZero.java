@@ -10,5 +10,6 @@ public class DividingByZero {
         } finally {
             System.out.println("Dividing is fun");
         }
+
     }
 }
